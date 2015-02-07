@@ -117,12 +117,14 @@
             <pb facs="tcp:94004:1" rendition="simple:additions"/>
             <p>LONDONS LAMENTATION.</p>
             <p>Or a fit admoniſhment for City and Countrey, Wherein is deſcribed certaine cauſes of this affliction and vi<g ref="char:EOLhyphen"/>ſitation of the Plague, yeare 1641. which the Lord hath been pleaſed to inflict upon us, and withall what meanes muſt be uſed to the Lord, to gaine his mercy and favor, with an excellent ſpirituall medicine to be uſed for the preſervative both of Body and Soule.</p>
-            <figure>
-               <head>Londons Charitie</head>
-            </figure>
-            <figure>
-               <head>the Countries Crueltie</head>
-            </figure>
+            <p>
+               <figure>
+                  <head>Londons Charitie</head>
+               </figure>
+               <figure>
+                  <head>the Countries Crueltie</head>
+               </figure>
+            </p>
             <p>London, Printed by E. P. for Iohn Wright Junior. 1641.</p>
          </div>
       </front>
